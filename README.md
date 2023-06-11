@@ -2,8 +2,8 @@
 
 This repo contains the SQL processing files used in my project processing World Bank IDBR & IDA data.
 Both the data sources can be found here:
-IBDR LOANS: https://finances.worldbank.org/Loans-and-Credits/IBRD-Statement-of-Loans-Latest-Available-Snapshot/sfv5-tf7p
-IDA Credits & Grants: https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-of-Credits-and-Grants-Latest-Availab/ebmi-69yj
+* IBDR LOANS: https://finances.worldbank.org/Loans-and-Credits/IBRD-Statement-of-Loans-Latest-Available-Snapshot/sfv5-tf7p
+* IDA Credits & Grants: https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-of-Credits-and-Grants-Latest-Availab/ebmi-69yj
 
 To replicate Processing Steps:
 1) Download Data as above
